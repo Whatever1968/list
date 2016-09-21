@@ -1,4 +1,3 @@
-//  Exercise:  Create a to do List app
 function button() {
 	var item = document.getElementById("input").value
 	var text = document.createTextNode(item)
